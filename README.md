@@ -1,4 +1,5 @@
 # 🏦 AI-Powered Credit Scoring System
+![App Demo](Demo_accept.png)(Demo_reject.png)
 
 An end-to-end Machine Learning solution designed to predict the likelihood of loan default. This project features a robust Random Forest classifier and an interactive **Streamlit** dashboard for real-time risk assessment.
 
@@ -35,5 +36,5 @@ The model and scaler are serialized using `joblib` for high-efficiency loading. 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/credit-scoring-ai.git](https://github.com/your-username/credit-scoring-ai.git)
+   git clone [https://github.com/your-username/credit-scoring-ai.git](https://github.com/Rajneeshsingraul830/Credit-Scoring-ML-Dashboard.git)
    cd credit-scoring-ai
