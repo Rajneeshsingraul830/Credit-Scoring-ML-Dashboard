@@ -1,5 +1,8 @@
 # 🏦 AI-Powered Credit Scoring System
-![App Demo](Demo_accept.png)(Demo_reject.png)
+**Loan Approved Scenario:**
+![Loan Approved](Demo_accept.png)
+**Loan Rejected Scenario:**
+![Loan Rejected](Demo_reject.png)
 
 An end-to-end Machine Learning solution designed to predict the likelihood of loan default. This project features a robust Random Forest classifier and an interactive **Streamlit** dashboard for real-time risk assessment.
 
